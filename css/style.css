@@ -8,7 +8,7 @@ body {
 }
 .k {
   position: absolute;
-  background: #410358;
+  background: #000000;
   width: 200px;
   height: 200px;
   top: 50%;
@@ -20,7 +20,7 @@ body {
 }
 .d {
   position: absolute;
-  background: #000005;
+  background: #000000;
   width: 200px;
   height: 200px;
   top: 50%;
@@ -32,7 +32,7 @@ body {
 }      
 .a {
   position: absolute;
-  background: #2d07bb;
+  background: #000000;
   width: 200px;
   height: 200px;
   top: 50%;
@@ -42,8 +42,22 @@ body {
   border-style: dotted;
   border-width: 2px;
 }
-.k::after,
-.d::after,
+.k::after{
+  position: absolute;
+   top: -20px;
+   left: 25px;
+  font-size: 10em;
+  color: #c31400;
+ text-shadow:0px 5px 10px #fdff00;
+}
+.d::after{
+  position: absolute;
+   top: -20px;
+   left: 25px;
+  font-size: 10em;
+  color: #c31400;
+ text-shadow:0px 5px 10px #fdff00;
+}
 .a::after {
   position: absolute;
    top: -20px;
