@@ -4,6 +4,7 @@ body {
   font-size: 18px;
   font-family: "Fira Sans", sans-serif;
   font-weight: 500;
+  backgroud: red;
 }
 .k {
   position: absolute;
@@ -14,6 +15,7 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: -300px;
+  transform: scale(1,2);
 }
 .d {
   position: absolute;
@@ -24,6 +26,7 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: -100px;
+  transform: scale(1,2);
 }      
 .a {
   position: absolute;
@@ -34,6 +37,7 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: 100px;
+  transform: scale(1,2);
 }
 .k::after,
 .d::after,
