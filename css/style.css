@@ -15,7 +15,7 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: -300px;
- transform: rotate(20deg);
+ transform: rotate(30deg);
 }
 .d {
   position: absolute;
@@ -26,7 +26,7 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: -100px;
-  transform: rotate(20deg);
+  transform: rotate(30deg);
 }      
 .a {
   position: absolute;
@@ -37,7 +37,7 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: 100px;
-  transform: rotate(20deg);
+  transform: rotate(30deg);
 }
 .k::after,
 .d::after,
