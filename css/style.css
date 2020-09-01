@@ -47,7 +47,6 @@ body {
     left: 25px;
   font-size: 10em;
   color: white;
-  transform: skew(20deg);
 }
 .k::after {
   content: "K";
