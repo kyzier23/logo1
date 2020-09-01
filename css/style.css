@@ -15,7 +15,6 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: -300px;
- transform: rotate(45deg);
 }
 .d {
   position: absolute;
@@ -26,7 +25,6 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: -100px;
-  transform: rotate(45deg);
 }      
 .a {
   position: absolute;
@@ -37,7 +35,6 @@ body {
   left: 50%;
   margin-top: -100px;
   margin-left: 100px;
-  transform: rotate(45deg);
 }
 .k::after,
 .d::after,
@@ -47,7 +44,6 @@ body {
    left: 25px;
   font-size: 10em;
   color: white;
-  transform: skew(30deg)
 }
 .k::after {
   content: "K";
