@@ -44,7 +44,6 @@ body {
 .a::after {
   position: absolute;
   top: -20px;
-  left: 45px;
   font-size: 10em;
   color: white;
   transform: skew(20deg);
