@@ -1,10 +1,11 @@
 <?php
-print "<html>\n";
-print "<link rel=\"stylesheet\" href=\"css/style.css\">\n";
-print "<body>\n";
-print "<div class=\"k\"></div>\n";
-print "<div class=\"d\"></div>\n";
-print "<div class=\"a\"></div>	\n";
-print "</body>\n";
-print "</html>";
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="cssstyle.css">
+<body>
+<div class= "k"></div>
+<div class= "d"></div>
+<div class= "a"></div>
+</body>
+</html>
 ?>
